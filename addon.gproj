@@ -1,0 +1,8 @@
+GameProject {
+ ID "QuickTvTPodval"
+ GUID "60FCFBEED3ADCCBD"
+ TITLE "QuickTvT_Podval"
+ Dependencies {
+  "60FB0A9FCE42D595" "58D0FB3206B6F859"
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{62944D2E6CA54025}scripts/WorkbenchGame/WorldEditor/MarkerMakerConfig_QuckTvT.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
