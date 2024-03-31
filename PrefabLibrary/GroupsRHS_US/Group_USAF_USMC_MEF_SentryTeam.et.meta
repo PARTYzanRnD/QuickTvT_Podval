@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{D6FB9565176AB04B}PrefabLibrary/GroupsRHS_US/Group_USAF_USMC_MEF_SentryTeam.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

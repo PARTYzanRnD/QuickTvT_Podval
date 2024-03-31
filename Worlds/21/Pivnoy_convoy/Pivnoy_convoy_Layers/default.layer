@@ -1556,6 +1556,7 @@ PS_GameModeQuickTvT "60FB280EC600AC77" {
  m_bAutoPlayerRespawn 0
  m_bAllowFactionChange 0
  m_bAdminMode 0
+ m_bRemoveRedundantUnits 1
  m_bRemoveSquadMarkers 1
  m_iFreezeTime 30000
  m_iGameTime 390000

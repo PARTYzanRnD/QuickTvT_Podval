@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E9440D20789703B0}PrefabLibrary/GroupsRHS_US/Group_USAF_USMC_MEF_LightFireTeam.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

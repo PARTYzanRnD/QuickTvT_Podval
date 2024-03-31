@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7B3836D3C89B7400}PrefabLibrary/GroupsRHS_US/Group_USAF_USMC_MEF_Team_Suppress.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

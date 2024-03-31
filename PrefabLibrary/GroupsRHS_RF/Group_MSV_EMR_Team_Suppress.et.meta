@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{9B47A88BE9A35724}PrefabLibrary/GroupsRHS_RF/Group_MSV_EMR_Team_Suppress.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

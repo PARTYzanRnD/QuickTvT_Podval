@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{82CBAD8BA09D0130}PrefabLibrary/GroupsRHS_US/Group_USAF_USMC_MEF_Team_LAT.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

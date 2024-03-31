@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{D594C56A7BF89D8D}PrefabLibrary/GroupsRHS_RF/Group_MSV_EMR_RifleSquad.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

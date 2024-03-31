@@ -1,14 +1,6 @@
-$grp Vehicle : "{A95573BF4A5C1901}PrefabLibrary/Vehicles/BTR70.et" {
- BTR1 {
-  coords 2492.669 94.017 1912.037
-  angleY -78.135
- }
- BTR2 {
-  coords 2530.545 93.865 1912.439
-  angleX 3.684
-  angleY -106.165
-  angleZ -0.137
- }
+Vehicle BTR1 : "{A95573BF4A5C1901}PrefabLibrary/Vehicles/BTR70.et" {
+ coords 2492.669 94.017 1912.037
+ angleY -78.135
 }
 $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_p.et" {
  USSR_G_001_6 {
@@ -40,13 +32,7 @@ $grp SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad
   angleY 26.037
  }
 }
-$grp Vehicle : "{FB30F1FC8B4A6E13}PrefabLibrary/Vehicles/Ural4320_tanker.et" {
- Ural4320_tanker1 {
-  coords 2505.995 94.29 1909.844
-  angleY -84.813
- }
- Ural4320_tanker2 {
-  coords 2518.257 94.438 1909.667
-  angleY -95.888
- }
+Vehicle Ural4320_tanker1 : "{FB30F1FC8B4A6E13}PrefabLibrary/Vehicles/Ural4320_tanker.et" {
+ coords 2505.995 94.29 1909.844
+ angleY -84.813
 }
