@@ -1,31 +1,31 @@
-$grp SCR_AIGroup : "{D594C56A7BF89D8D}PrefabLibrary/GroupsRHS_RF/Group_MSV_EMR_RifleSquad.et" {
+$grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MSV_VKPO_DS_RifleSquad.et" {
  RHS_RF_MSV_G_001_6 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "LineTight"
    }
-   PS_GroupCallsignAssigner "{60FED22870CE324B}" {
+   PS_GroupCallsignAssigner "{60FEFEAAED65008C}" {
     m_iCompanyCallsign 0
     m_iPlatoonCallsign 0
     m_iSquadCallsign 1
    }
   }
-  coords 1346.974 3.324 3516.923
-  angleY -28.183
+  coords 1343.848 3.313 3523.531
+  angleY 150
  }
  RHS_RF_MSV_G_002_6 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation "LineTight"
    }
-   PS_GroupCallsignAssigner "{60FED2287127CCA9}" {
+   PS_GroupCallsignAssigner "{60FEFEAAED65008C}" {
     m_iCompanyCallsign 0
     m_iPlatoonCallsign 0
     m_iSquadCallsign 2
    }
   }
-  coords 1344.183 3.313 3523.463
-  angleY 142.368
+  coords 1347.32 3.313 3517.24
+  angleY -30
  }
 }
 $grp Vehicle : "{E10A0CE2A18A92BE}PrefabLibrary/Vehicles/UAZ469.et" {

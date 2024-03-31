@@ -2,31 +2,3 @@ Vehicle M1 : "{23363FDE66B38BE4}PrefabLibrary/Vehicles/M1025.et" {
  coords 2796.934 73.871 1665.436
  angleY -89.678
 }
-SCR_AIGroup RHS_RF_MSV_G_002_2 : "{75A7374CEC6A7159}PrefabLibrary/GroupsRHS_RF/Group_MSV_EMR_SentryTeam.et" {
- components {
-  AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "LineTight"
-  }
-  PS_GroupCallsignAssigner "{60FED22C3E8E78F4}" {
-   m_iCompanyCallsign 0
-   m_iPlatoonCallsign 0
-   m_iSquadCallsign 2
-  }
- }
- coords 3060.703 72.938 1577.082
- angleY -30.681
-}
-SCR_AIGroup RHS_RF_MSV_G_001_6 : "{D594C56A7BF89D8D}PrefabLibrary/GroupsRHS_RF/Group_MSV_EMR_RifleSquad.et" {
- components {
-  AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "LineTight"
-  }
-  PS_GroupCallsignAssigner "{60FED22F52377503}" {
-   m_iCompanyCallsign 0
-   m_iPlatoonCallsign 0
-   m_iSquadCallsign 1
-  }
- }
- coords 3060.027 72.825 1583.068
- angleY 165
-}

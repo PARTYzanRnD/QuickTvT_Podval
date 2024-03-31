@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{83B177C81A2D6F8E}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MSV_VKPO_DS_SentryTeam.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
