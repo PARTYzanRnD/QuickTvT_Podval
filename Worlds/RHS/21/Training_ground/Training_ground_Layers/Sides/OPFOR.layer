@@ -1,0 +1,34 @@
+Vehicle Ural4320_transport1 : "{C5B4E63204C88F4E}PrefabLibrary/Vehicles/Ural4320_transport.et" {
+ coords 1592.661 8.708 2000.627
+ angleY -87.188
+}
+$grp SCR_AIGroup : "{D594C56A7BF89D8D}PrefabLibrary/GroupsRHS_RF/Group_MSV_EMR_RifleSquad.et" {
+ RHS_RF_MSV_G_001_6 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "LineTight"
+   }
+   PS_GroupCallsignAssigner "{60FED22870CE324B}" {
+    m_iCompanyCallsign 0
+    m_iPlatoonCallsign 0
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1593.39 8.712 1997.028
+  angleY -1.449
+ }
+ RHS_RF_MSV_G_002_6 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "LineTight"
+   }
+   PS_GroupCallsignAssigner "{60FED2287127CCA9}" {
+    m_iCompanyCallsign 0
+    m_iPlatoonCallsign 0
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1593.62 8.997 2004.944
+  angleY 174.087
+ }
+}
