@@ -8,11 +8,14 @@ PolylineShapeEntity : "{7019844BAD5C4DD8}Prefabs/PolyZone/PolyZone_Border.et" {
  }
  coords 951.202 0 3167.928
  Points {
+  ShapePoint "{60E90266E922A02A}" {
+   Position 6.851 0.478 -8.556
+  }
   ShapePoint "{60FD050FC32614B5}" {
-   Position 9.865 0.178 -4.172
+   Position 8.238 -1.626 5.798
   }
   ShapePoint "{60FED22BB2345B6A}" {
-   Position 49.235 -1.506 21.913
+   Position 48.938 -0.652 19.541
   }
   ShapePoint "{60FED22BB3B29067}" {
    Position 22.934 -4.241 115.575

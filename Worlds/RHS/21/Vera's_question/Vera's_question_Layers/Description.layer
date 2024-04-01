@@ -5,7 +5,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTextData "Синие не верят в бога и хотят разрушить церковь."\
   "Красные должны отстоять свою веру в бою."
   m_aVisibleForFactions {
-   "" "US" "USSR"
+   "" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -16,7 +16,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Фриз зона красных - Красная зона"\
   "Фриз зона синих - Синяя зона"
   m_aVisibleForFactions {
-   "" "US" "USSR"
+   "" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
   }
   m_bEmptyFactionVisibility 1
  }
