@@ -1,0 +1,102 @@
+$grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MSV_VKPO_DS_RifleSquad.et" {
+ RHS_RF_MSV_G_001_2 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "LineTight"
+   }
+   PS_GroupCallsignAssigner "{60FF134A88AD616F}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+   }
+  }
+  coords 1673.729 45.428 3147.008
+  angleY 136
+  m_aUnitPrefabSlots {
+   "{F0F0A8C16C9901B8}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SL.et" "{8DE84439090A3D21}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SR.et" "{8DE84439090A3D21}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SR.et" "{8DE84439090A3D21}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SR.et" "{CF6F87C43052B748}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_MG.et" "{E0E062BD23185D62}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_AMG.et" "{45D0301F2794BDF7}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_AT.et" "{6A5FD56634DE57DD}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_AAT.et"
+  }
+  m_sCustomNameSet "1-1"
+ }
+ RHS_RF_MSV_G_001_3 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "LineTight"
+   }
+   PS_GroupCallsignAssigner "{60FF134A88AD616F}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 2
+   }
+  }
+  coords 1661.928 45.428 3135.42
+  angleY 136
+  m_aUnitPrefabSlots {
+   "{F0F0A8C16C9901B8}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SL.et" "{8DE84439090A3D21}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SR.et" "{8DE84439090A3D21}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SR.et" "{8DE84439090A3D21}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SR.et" "{CF6F87C43052B748}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_MG.et" "{E0E062BD23185D62}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_AMG.et" "{45D0301F2794BDF7}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_AT.et" "{6A5FD56634DE57DD}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_AAT.et"
+  }
+  m_sCustomNameSet "1-2"
+ }
+}
+$grp Vehicle : "{E1A99B5F2DC9B38A}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_Camo.et" {
+ UAZ469_Camo1 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5AD4F813E67ECB5D}" {
+    MultiSlots {
+     MultiSlotConfiguration "{61036549D4F18514}" {
+      SlotTemplate InventoryStorageSlot mine {
+       Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
+  }
+  coords 1660.307 45.344 3128.899
+  angleY -129.508
+ }
+ UAZ469_Camo2 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5AD4F813E67ECB5D}" {
+    MultiSlots {
+     MultiSlotConfiguration "{61036549D4F18514}" {
+      SlotTemplate InventoryStorageSlot mine {
+       Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
+  }
+  coords 1665.68 45.344 3133.577
+  angleY -129.508
+ }
+ UAZ469_Camo3 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5AD4F813E67ECB5D}" {
+    MultiSlots {
+     MultiSlotConfiguration "{61036549D4F18514}" {
+      SlotTemplate InventoryStorageSlot mine {
+       Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
+  }
+  coords 1673.333 45.344 3140.752
+  angleY -129.508
+ }
+ UAZ469_Camo4 {
+  components {
+   SCR_UniversalInventoryStorageComponent "{5AD4F813E67ECB5D}" {
+    MultiSlots {
+     MultiSlotConfiguration "{61036549D4F18514}" {
+      SlotTemplate InventoryStorageSlot mine {
+       Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
+      }
+      NumSlots 1
+     }
+    }
+   }
+  }
+  coords 1679.13 45.344 3146.606
+  angleY -139.675
+ }
+}

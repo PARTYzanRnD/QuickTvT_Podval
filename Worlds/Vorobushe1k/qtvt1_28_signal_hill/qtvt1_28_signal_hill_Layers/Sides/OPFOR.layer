@@ -1,0 +1,42 @@
+$grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MSV_VKPO_DS_RifleSquad.et" {
+ RHS_RF_MSV_G_010_6 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "LineTight"
+   }
+   PS_GroupCallsignAssigner "{60FF134A8A3FD59F}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 2
+    m_iSquadCallsign 0
+   }
+  }
+  coords 2504.608 148.18 2269.909
+  angleX -0.08
+  angleY -54.902
+  angleZ 3.223
+  m_sCustomNameSet "1-2"
+ }
+ RHS_RF_MSV_G_010_2 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "LineTight"
+   }
+   PS_GroupCallsignAssigner "{60FF134A8A3FD59F}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+    m_iSquadCallsign 0
+   }
+  }
+  coords 2509.231 148.184 2276.794
+  angleX -0.08
+  angleY -54.902
+  angleZ 3.223
+  m_sCustomNameSet "1-1"
+ }
+}
+Vehicle UAZ452_ambulance1 : "{CE88CC81880BE24C}PrefabLibrary/Vehicles/UAZ452_ambulance.et" {
+ coords 2514.869 147.018 2296.745
+ angleX 6.037
+ angleY -19.451
+ angleZ 6.343
+}

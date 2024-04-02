@@ -1,0 +1,34 @@
+$grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MSV_VKPO_DS_RifleSquad.et" {
+ Res_RHS_RF_MSV_G_001_6 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "LineTight"
+   }
+   PS_GroupCallsignAssigner "{60FF134A88AD616F}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 2
+   }
+  }
+  coords 3242.569 10.68 1277.455
+  angleY 157.64
+  m_sCustomNameSet "1-2"
+ }
+ RHS_RF_MSV_G_001_2 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation "LineTight"
+   }
+   PS_GroupCallsignAssigner "{60FF134A88AD616F}" {
+    m_iCompanyCallsign 1
+    m_iPlatoonCallsign 1
+   }
+  }
+  coords 3480.372 6.043 1716.183
+  angleY 89.509
+  m_sCustomNameSet "1-1"
+ }
+}
+Vehicle APC_K17_unarmed_camo1 : "{DC6A0BC75B198106}Prefabs/Vehicles/Wheeled/K17/APC_K17_unarmed_camo1.et" {
+ coords 3488.089 6.031 1715.834
+ angleY -179.925
+}

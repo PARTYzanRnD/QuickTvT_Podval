@@ -1,0 +1,68 @@
+$grp GenericEntity : "{8777F96EBE817623}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_base.et" {
+ {
+  coords 1030.776 38.027 2906.292
+  angleY 73.896
+ }
+ {
+  coords 1029.353 38.027 2911.22
+  angleY 73.896
+ }
+ {
+  coords 1027.88 38.027 2916.324
+  angleY 73.896
+ }
+ {
+  coords 1027.203 38.027 2918.669
+  angleY 73.896
+ }
+ {
+  coords 1030.064 40.085 2908.757
+  angleY 73.896
+ }
+ {
+  coords 1029.353 40.085 2911.22
+  angleY 73.896
+ }
+ {
+  coords 1028.623 40.085 2913.749
+  angleY 73.896
+ }
+ {
+  coords 1027.88 40.085 2916.324
+  angleY 73.896
+ }
+ {
+  coords 1027.203 40.085 2918.669
+  angleY 73.896
+ }
+ {
+  coords 1030.776 40.085 2906.292
+  angleY 73.896
+ }
+ {
+  coords 1025.311 38.027 2911.908
+  angleY 73.896
+ }
+ {
+  coords 1026.044 38.027 2909.369
+  angleY 73.896
+ }
+ {
+  coords 1026.725 38.027 2907.011
+  angleY 73.896
+ }
+ {
+  coords 1024.671 38.027 2914.126
+  angleY 73.896
+ }
+}
+$grp GenericEntity : "{A7930B258A9B4CA8}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_plastic.et" {
+ {
+  coords 1030.067 38.037 2908.788
+  angleY 75.115
+ }
+ {
+  coords 1028.656 38.037 2913.827
+  angleY 75.115
+ }
+}
