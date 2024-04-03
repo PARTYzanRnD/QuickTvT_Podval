@@ -54,7 +54,7 @@ PolylineShapeEntity : "{DCA90362FBC25FB4}Prefabs/PolyZone/PolyZone_Presence.et" 
  {
   PS_Objective {
    ID "60E9062D2F15A7F1"
-   m_sTitle "Как минимум один вертолет не уничтожен."
+   m_sTitle "Как минимум один вертолет уцелел."
    m_iScore 200
    m_sFactionKey "RHS_US_USMC"
   }

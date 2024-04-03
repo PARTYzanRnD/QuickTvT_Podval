@@ -2,38 +2,342 @@ $grp Vehicle : "{70BAEEFC2D3FEE64}Prefabs/Vehicles/Helicopters/UH1H/UH1H.et" {
  UH1H1 {
   components {
    ActionsManagerComponent "{C97BE5489221AE18}" {
-    Enabled 0
+    ActionContexts {
+     UserActionContext "{5E2EC4D3A76449F8}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2942B0CA46BF0}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2942B1446DDA6}" {
+      Radius 0
+     }
+     UserActionContext "{5EA294269F991DD9}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2943E86F349E7}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDA2}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDA1}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDBF}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDBA}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF860D}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF8603}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF8601}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF7F5B}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF346D}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF3453}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FCD134}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FCD131}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC927A}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC9278}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC927F}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC6CA7}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC6CB9}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC004A}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC004C}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FDFE5D}" {
+      Radius 0
+     }
+    }
    }
   }
-  coords 1128.857 38 2909.89
+  coords 1128.857 38.04 2909.89
   angleY 164.287
  }
- UH1H2 {
+ UH1H5 {
   components {
    ActionsManagerComponent "{C97BE5489221AE18}" {
-    Enabled 0
+    ActionContexts {
+     UserActionContext "{5E2EC4D3A76449F8}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2942B0CA46BF0}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2942B1446DDA6}" {
+      Radius 0
+     }
+     UserActionContext "{5EA294269F991DD9}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2943E86F349E7}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDA2}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDA1}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDBF}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDBA}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF860D}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF8603}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF8601}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF7F5B}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF346D}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF3453}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FCD134}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FCD131}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC927A}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC9278}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC927F}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC6CA7}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC6CB9}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC004A}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC004C}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FDFE5D}" {
+      Radius 0
+     }
+    }
    }
   }
-  coords 1072.708 39.151 2953.479
+  coords 1074.028 39.151 2950.841
   angleY 164.287
  }
- UH1H3 {
+ UH1H6 {
   components {
    ActionsManagerComponent "{C97BE5489221AE18}" {
-    Enabled 0
+    ActionContexts {
+     UserActionContext "{5E2EC4D3A76449F8}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2942B0CA46BF0}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2942B1446DDA6}" {
+      Radius 0
+     }
+     UserActionContext "{5EA294269F991DD9}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2943E86F349E7}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDA2}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDA1}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDBF}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDBA}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF860D}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF8603}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF8601}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF7F5B}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF346D}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF3453}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FCD134}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FCD131}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC927A}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC9278}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC927F}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC6CA7}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC6CB9}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC004A}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC004C}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FDFE5D}" {
+      Radius 0
+     }
+    }
    }
   }
-  coords 1070.695 38.045 2863.427
-  angleY 73.946
+  coords 1019.193 38 2909.653
+  angleY 78.192
  }
- UH1H4 {
+ UH1H7 {
   components {
    ActionsManagerComponent "{C97BE5489221AE18}" {
-    Enabled 0
+    ActionContexts {
+     UserActionContext "{5E2EC4D3A76449F8}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2942B0CA46BF0}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2942B1446DDA6}" {
+      Radius 0
+     }
+     UserActionContext "{5EA294269F991DD9}" {
+      Radius 0
+     }
+     UserActionContext "{5EA2943E86F349E7}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDA2}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDA1}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDBF}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FFEDBA}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF860D}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF8603}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF8601}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF7F5B}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF346D}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FF3453}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FCD134}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FCD131}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC927A}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC9278}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC927F}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC6CA7}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC6CB9}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC004A}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FC004C}" {
+      Radius 0
+     }
+     UserActionContext "{5CAAA44AC4FDFE5D}" {
+      Radius 0
+     }
+    }
    }
   }
-  coords 1017.107 38.027 2908.74
-  angleY 76.256
+  coords 1073.682 38.045 2864.076
+  angleY 76.57
  }
 }
 $grp SCR_AIGroup : "{76C8674380F85C9F}PrefabLibrary/GroupsRHS_US/Group_USAF_USMC_MEF_RifleSquad.et" {

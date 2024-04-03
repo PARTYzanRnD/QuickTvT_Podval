@@ -5,7 +5,7 @@ $grp PolylineShapeEntity {
     m_cPolygonColor 1 1 1 0
     m_cPolygonBorderColor 0 0 1 1
     m_fPolygonBorderUVScale 0.001
-    m_fPolygonBorderWidth 12.1
+    m_fPolygonBorderWidth 8.4
     m_aVisibleForFactions {
      "" "RHS_RF_MSV" "RHS_US_USMC"
     }
@@ -56,9 +56,9 @@ $grp PolylineShapeEntity {
    PS_PolyZone "{6102F809C8623877}" {
     m_cPolygonColor 1 1 1 0
     m_fPolygonUVScale 0.12
-    m_cPolygonBorderColor 1 0 0 1
+    m_cPolygonBorderColor 0 0 0 1
     m_fPolygonBorderUVScale 0.001
-    m_fPolygonBorderWidth 13.2
+    m_fPolygonBorderWidth 8.4
     m_aVisibleForFactions {
      "RHS_RF_MSV" "RHS_US_USMC" ""
     }
