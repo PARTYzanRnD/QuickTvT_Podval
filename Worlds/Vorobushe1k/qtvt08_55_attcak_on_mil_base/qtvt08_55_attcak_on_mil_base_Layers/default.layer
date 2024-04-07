@@ -20,7 +20,7 @@ PS_GameModeQuickTvT PS_GameMode_QuickTvT1 : "{FF0F19DC6E834F3D}Prefabs/MP/Modes/
  m_iFreezeTime 90000
  m_iPreviewTime 20000
  m_iSlotsTime 90000
- m_iBriefingTime 120000
+ m_iBriefingTime 90000
  m_iGameTime 900000
  m_iDebriefingTime 20000
 }

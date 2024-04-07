@@ -64,7 +64,7 @@ PolylineShapeEntity {
     m_sTitle "Сигнальный холм под контролем США"
     m_sTextData ""
     m_iScore 100
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "FIA"
     m_bAdvanceWhenTriggered 1
    }
   }

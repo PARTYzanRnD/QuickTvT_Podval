@@ -12,6 +12,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
   }
   coords 1973.039 51.244 3008.385
   angleY -157.789
+  m_bDeleteWhenEmpty 0
   m_sCustomNameSet "2-2"
  }
  RHS_RF_MSV_G_001_4 {
@@ -29,6 +30,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
   m_aUnitPrefabSlots {
    "{0848BAB1B94FCBBA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Crew.et" "{0848BAB1B94FCBBA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Crew.et"
   }
+  m_bDeleteWhenEmpty 0
   m_sCustomNameSet "3-1"
  }
  RHS_RF_MSV_G_001_5 {
@@ -43,6 +45,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
   }
   coords 1961.571 51.244 3013.454
   angleY -161.917
+  m_bDeleteWhenEmpty 0
   m_sCustomNameSet "2-1"
  }
  RHS_RF_MSV_G_001_3 {
@@ -58,6 +61,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
   }
   coords 1997.239 51.244 2998.194
   angleY -157.789
+  m_bDeleteWhenEmpty 0
   m_sCustomNameSet "2-4"
  }
  RHS_RF_MSV_G_001_2 {
@@ -73,6 +77,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
   }
   coords 1985.745 51.244 3003.197
   angleY -157.789
+  m_bDeleteWhenEmpty 0
   m_sCustomNameSet "2-3"
  }
  RHS_RF_MSV_G_001_7 {
@@ -90,6 +95,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
   m_aUnitPrefabSlots {
    "{F0F0A8C16C9901B8}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_SL.et" "{B6C45B392F33B9E4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_RTO.et" "{7E590EDD929739E4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Medic.et" "{68EB286921B4E7FD}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/MSV/VKPO_Demiseason/Character_RHS_RF_MSV_VKPO_DS_Sharpshooter.et"
   }
+  m_bDeleteWhenEmpty 0
   m_sCustomNameSet "1-1"
  }
 }

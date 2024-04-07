@@ -56,7 +56,6 @@ PolylineShapeEntity : "{C6DAEFE44431B98A}PrefabLibrary/PolyZones/PolyZone_Destro
    m_sTitle "Пилот убит."
    m_iScore 50
    m_sFactionKey "RHS_RF_MSV"
-   m_bAdvanceWhenTriggered 1
   }
   PS_PolyZoneObjectiveTriggerDestroy {
    ID "60E9062E6BABF765"

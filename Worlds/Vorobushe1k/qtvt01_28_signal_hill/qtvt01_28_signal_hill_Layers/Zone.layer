@@ -100,7 +100,8 @@ $grp PolylineShapeEntity {
     }
     TriggerShapeType Polyline
     SphereRadius 999999
-    "Polyline Height" 57.3
+    "Polyline Height" 162.2
+    DrawShape 1
     TriggerActivationType "All changes"
     PeriodicQueries 1
     ClassesFilter {

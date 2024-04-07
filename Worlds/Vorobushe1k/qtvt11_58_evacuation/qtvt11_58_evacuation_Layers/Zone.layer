@@ -481,7 +481,7 @@ $grp PolylineShapeEntity {
    PS_PolyZoneTrigger {
     components {
      SCR_LifetimeComponent "{610B5039AEBDF077}" {
-      m_fLifeTime 2035
+      m_fLifeTime 1720
      }
      Hierarchy "{6102F809C35E4741}" {
      }

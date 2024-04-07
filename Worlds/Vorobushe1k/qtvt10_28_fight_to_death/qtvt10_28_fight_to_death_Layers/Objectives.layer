@@ -36,6 +36,7 @@ PolylineShapeEntity {
      Hierarchy "{6102F80A7DDE3F73}" {
      }
     }
+    m_sTitle "Коровник захвачен ВСРФ."
     m_sTextData ""
     m_iScore 100
     m_sFactionKey "RHS_RF_MSV"
@@ -48,6 +49,7 @@ PolylineShapeEntity {
      Hierarchy "{6102F80A792BDE01}" {
      }
     }
+    m_sTitle "Коровник захвачен США."
     m_sTextData ""
     m_iScore 100
     m_sFactionKey "RHS_US_USMC"
@@ -71,6 +73,7 @@ PolylineShapeEntity {
    m_polyZoneEffect PS_PolyZoneEffectTriggerCapture "{60FD404BA423B7C5}" {
     m_sTriggerName "CaptureTrigger"
    }
+   m_fCaptureTime 120
    m_bEasyTake 1
    m_bTimeLoss 1
   }

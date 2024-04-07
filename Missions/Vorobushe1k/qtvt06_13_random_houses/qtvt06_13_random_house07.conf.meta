@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{DD89D663D2831C7A}Missions/qtvt6_13_random_houses/qtvt6_13_random_house7.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

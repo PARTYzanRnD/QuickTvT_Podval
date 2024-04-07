@@ -1,3 +1,13 @@
+$grp Vehicle : "{3EA6F47D95867114}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB.et" {
+ M1025_armed_M2HB3 {
+  coords 2799.41 73.933 1628.26
+  angleY -115.577
+ }
+ M1025_armed_M2HB4 {
+  coords 2817.093 73.291 1636.906
+  angleY -115.577
+ }
+}
 $grp Vehicle : "{4A71F755A4513227}Prefabs/Vehicles/Wheeled/M998/M1025.et" {
  M1 {
   coords 2791.664 74.334 1624.971
@@ -82,19 +92,5 @@ $grp SCR_AIGroup : "{76C8674380F85C9F}PrefabLibrary/GroupsRHS_US/Group_USAF_USMC
   }
   m_bDeleteWhenEmpty 0
   m_sCustomNameSet "2-1"
- }
-}
-$grp Vehicle : "{81FDAD5EB644CC3D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered.et" {
- M923A1_transport_covered4 {
-  coords 2799.733 73.91 1628.331
-  angleX 1.981
-  angleY -108.466
-  angleZ 0.282
- }
- M923A1_transport_covered5 {
-  coords 2816.96 73.233 1637.191
-  angleX 1.994
-  angleY -121.433
-  angleZ -0.17
  }
 }

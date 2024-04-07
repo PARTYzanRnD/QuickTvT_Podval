@@ -10,58 +10,28 @@ $grp PolylineShapeEntity : "{52693A94BD70373C}Prefabs/PolyZone/PolyZone_Freeze.e
     }
    }
   }
-  coords 2671.916 72.619 1614.262
+  coords 3052.56 27.172 2591.164
   Points {
-   ShapePoint "{610D11C6CB5B1B4A}" {
-    Position -12.376 2.074 27.172
+   ShapePoint "{610EE611BC832735}" {
+    Position 33.857 -6.054 26.538
    }
-   ShapePoint "{610D11C6CC98D2AA}" {
-    Position -15.275 3.344 68.87
+   ShapePoint "{610EE611BC7E16D3}" {
+    Position 75.168 -11.758 88.046
    }
-   ShapePoint "{610D11C6CCDA5ABE}" {
-    Position -2.113 5.423 123.071
+   ShapePoint "{610EE611BD8ECF00}" {
+    Position 99.307 -12.882 119.991
    }
-   ShapePoint "{610D11C6CC1D8284}" {
-    Position 32.442 5.681 143.083
+   ShapePoint "{610EE611BD23413F}" {
+    Position 86.191 -14.47 154.678
    }
-   ShapePoint "{610D11C6CC41BD11}" {
-    Position 96.423 -3.454 146.779
+   ShapePoint "{610EE611BD7EE25B}" {
+    Position 25.39 -11.11 115.203
    }
-   ShapePoint "{610D11C6CD9ED4A4}" {
-    Position 148.7 -1.474 136.162
+   ShapePoint "{610EE611BEBE4854}" {
+    Position -9.274 -4.928 60.546
    }
-   ShapePoint "{610D11C6CDC93EC7}" {
-    Position 188.6 -0.928 130.854
-   }
-   ShapePoint "{610D11C6CD0912E9}" {
-    Position 235.246 -3.825 114.823
-   }
-   ShapePoint "{610D11C6CD744AB6}" {
-    Position 251.441 -4.676 95.799
-   }
-   ShapePoint "{610D11C6CE09F5C2}" {
-    Position 264.335 -7.846 69.857
-   }
-   ShapePoint "{610D11C6CE705DC5}" {
-    Position 251.717 -4.622 20.492
-   }
-   ShapePoint "{610D11C6CFB1F8DE}" {
-    Position 231.357 -4.359 -17.562
-   }
-   ShapePoint "{610D11C6CFE03EB3}" {
-    Position 178.491 -1.362 -37.343
-   }
-   ShapePoint "{610D11C6CF2875EF}" {
-    Position 135.32 -0.193 -41.808
-   }
-   ShapePoint "{610D11C6CF107789}" {
-    Position 78.787 0.682 -53.709
-   }
-   ShapePoint "{610D11C6CF44AAC3}" {
-    Position 46.668 0.091 -47.099
-   }
-   ShapePoint "{610D11C6D0EC2988}" {
-    Position 22.933 0.737 -23.9
+   ShapePoint "{610EE611BEF4544E}" {
+    Position -20.323 -1.72 21.998
    }
   }
  }
@@ -76,46 +46,55 @@ $grp PolylineShapeEntity : "{52693A94BD70373C}Prefabs/PolyZone/PolyZone_Freeze.e
     }
    }
   }
-  coords 2260.68 56.367 2805.986
+  coords 2644.421 74.571 1679.699
   Points {
    ShapePoint "{60E90266E922A02A}" {
     Position -0.369 -0.221 -1.241
    }
-   ShapePoint "{610D11C6DCC09068}" {
-    Position 22.375 3.259 -2.34
+   ShapePoint "{610EE6116C86A9E5}" {
+    Position 19.525 1.387 -29.151
    }
-   ShapePoint "{610D11C6DC0A32D2}" {
-    Position 45.75 6.444 1.594
+   ShapePoint "{610EE6116CC6D9AA}" {
+    Position 55.022 0.802 -78.32
    }
-   ShapePoint "{610D11C6DC590764}" {
-    Position 63.04 8.394 -4.79
+   ShapePoint "{610EE6116C334328}" {
+    Position 88.071 0.144 -110.018
    }
-   ShapePoint "{610D11C6DD9A9D5C}" {
-    Position 83.543 9.854 -21.178
+   ShapePoint "{610EE6116C65223B}" {
+    Position 142.59 -3.79 -122.528
    }
-   ShapePoint "{610D11C6DDD3B3FC}" {
-    Position 93.305 10.196 -28.726
+   ShapePoint "{610EE6116C550BF0}" {
+    Position 201.93 -3.325 -104.273
    }
-   ShapePoint "{610D11C6DD64B95B}" {
-    Position 111.766 7.71 -15.431
+   ShapePoint "{610EE6116D8BFC82}" {
+    Position 265.589 -6.048 -62.198
    }
-   ShapePoint "{610D11C6DEA267A6}" {
-    Position 108.966 7.212 5.522
+   ShapePoint "{610EE6116DE3D04B}" {
+    Position 291.87 -7.446 -35.252
    }
-   ShapePoint "{610D11C6DEE2F91D}" {
-    Position 74.027 8.43 28.266
+   ShapePoint "{610EE6116DD316F3}" {
+    Position 275.277 -7.406 62.088
    }
-   ShapePoint "{610D11C6DE2957FB}" {
-    Position 41.196 4.111 45.799
+   ShapePoint "{610EE6116D09EAF2}" {
+    Position 234.183 -4.549 95.595
    }
-   ShapePoint "{610D11C6DE65C9E2}" {
-    Position 15.316 0.252 44.378
+   ShapePoint "{610EE6116D7C993F}" {
+    Position 167.742 -9.483 105.802
    }
-   ShapePoint "{610D11C6DFA3A1B7}" {
-    Position -5.878 1.056 29.7
+   ShapePoint "{610EE6116EAD74A3}" {
+    Position 103.877 -6.709 133.22
    }
-   ShapePoint "{610D11C6DF6714DC}" {
-    Position -8.599 -1.555 13.87
+   ShapePoint "{610EE6116E8F6ADE}" {
+    Position 72.901 -2.256 140.984
+   }
+   ShapePoint "{610EE6116E91A402}" {
+    Position 27.82 5.24 124.074
+   }
+   ShapePoint "{610EE6116EC578D4}" {
+    Position -6.521 3.288 85.313
+   }
+   ShapePoint "{610EE6116E3C9D0E}" {
+    Position -14.522 0.388 44.698
    }
   }
  }

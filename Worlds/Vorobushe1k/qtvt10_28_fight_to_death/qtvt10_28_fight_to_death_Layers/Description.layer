@@ -3,7 +3,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   coords 1684.17 38.082 2998.94
   m_sTitle "ОПИСАНИЕ"
   m_sTextData " Встречный бой за стратегический коровник."\
-  " Пленных не брать."
+  " Пленных не брать!"\
+  ""\
+  "Время на миссию: 5 минут."
   m_aVisibleForFactions {
    "" "RHS_US_USMC" "RHS_RF_MSV"
   }

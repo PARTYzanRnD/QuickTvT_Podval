@@ -11,6 +11,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
   }
   coords 1427.45 12.989 1894.141
   angleY -174.108
+  m_bDeleteWhenEmpty 0
   m_sCustomNameSet "1-1"
  }
  RHS_RF_MSV_G_001_2 {
@@ -25,6 +26,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
   }
   coords 1419.299 12.989 1894.982
   angleY -174.108
+  m_bDeleteWhenEmpty 0
   m_sCustomNameSet "1-2"
  }
 }
