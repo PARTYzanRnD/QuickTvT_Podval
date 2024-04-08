@@ -4,5 +4,6 @@ PS_GameModeQuickTvT : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_GameMode_Lobby.et" 
  m_bRemoveRedundantUnits 1
  m_bRemoveSquadMarkers 1
  m_iFreezeTime 30000
+ m_iFactionsBalance 3
  m_iGameTime 420000
 }

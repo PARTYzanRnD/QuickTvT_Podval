@@ -40,7 +40,13 @@ PolylineShapeEntity : "{7882697F7345B966}PrefabLibrary/PolyZones/PolyZone_Presen
    m_bAdvanceWhenTriggered 1
   }
   PS_PolyZoneObjectivePresence {
-   ID "60E9062D2F15A7F9"
+   components {
+    Hierarchy "{6110FD7A8B78960C}" {
+    }
+   }
+   TriggerShapeType Polyline
+   TriggerActivationType "All changes"
+   PeriodicQueries 1
    PrefabsFilter {
     PrefabFilter "{60FE9D9C4C2B0C57}" {
      Prefab "{95DADCB2F2BB115B}PrefabLibrary/Vehicles/M997_maxi_ambulance.et"
