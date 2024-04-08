@@ -52,7 +52,13 @@ PolylineShapeEntity : "{7882697F7345B966}PrefabLibrary/PolyZones/PolyZone_Presen
    m_bAdvanceWhenTriggered 1
   }
   PS_PolyZoneObjectivePresence {
-   ID "60E9062D2F15A7F9"
+   components {
+    Hierarchy "{6110FD7AF562383B}" {
+    }
+   }
+   TriggerShapeType Polyline
+   TriggerActivationType "All changes"
+   PeriodicQueries 1
    PrefabsFilter {
     PrefabFilter "{60FE9D9C4C2B0C57}" {
      Prefab "{87305D48B8CAD6F5}PrefabLibrary/Vehicles/Ural4320_command.et"

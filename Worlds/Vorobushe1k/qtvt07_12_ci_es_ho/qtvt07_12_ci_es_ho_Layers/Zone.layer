@@ -36,7 +36,7 @@ PolylineShapeEntity {
    }
    TriggerShapeType Polyline
    SphereRadius 999999
-   "Polyline Height" 211.5
+   "Polyline Height" 31
    DrawShape 1
    TriggerActivationType "All changes"
    PeriodicQueries 1

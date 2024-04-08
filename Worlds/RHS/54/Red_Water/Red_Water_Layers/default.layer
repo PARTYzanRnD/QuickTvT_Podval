@@ -28,7 +28,7 @@ PS_GameModeQuickTvT PS_GameMode_QuickTvT1 : "{FF0F19DC6E834F3D}Prefabs/MP/Modes/
  m_iPreviewTime 21000
  m_iSlotsTime 90000
  m_iBriefingTime 90000
- m_iGameTime 1220000
+ m_iGameTime 720000
  m_iDebriefingTime 18000
 }
 HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
