@@ -5,9 +5,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
     DefaultFormation "LineTight"
    }
    PS_GroupCallsignAssigner "{60FF134A8A3FD59F}" {
-    m_iCompanyCallsign 1
-    m_iPlatoonCallsign 2
-    m_iSquadCallsign 0
+    m_iSquadCallsign 1
    }
   }
   coords 2504.608 148.18 2269.909
@@ -23,8 +21,6 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
     DefaultFormation "LineTight"
    }
    PS_GroupCallsignAssigner "{60FF134A8A3FD59F}" {
-    m_iCompanyCallsign 1
-    m_iPlatoonCallsign 1
     m_iSquadCallsign 0
    }
   }

@@ -384,8 +384,7 @@ $grp SCR_AIGroup : "{76C8674380F85C9F}PrefabLibrary/GroupsRHS_US/Group_USAF_USMC
     DefaultFormation "LineTight"
    }
    PS_GroupCallsignAssigner "{60FF134AC243C123}" {
-    m_iCompanyCallsign 1
-    m_iPlatoonCallsign 2
+    m_iSquadCallsign 1
    }
   }
   coords 1022.33 38.19 2943.651
@@ -401,8 +400,6 @@ $grp SCR_AIGroup : "{76C8674380F85C9F}PrefabLibrary/GroupsRHS_US/Group_USAF_USMC
     DefaultFormation "LineTight"
    }
    PS_GroupCallsignAssigner "{60FF134AC243C123}" {
-    m_iCompanyCallsign 1
-    m_iPlatoonCallsign 1
    }
   }
   coords 1013.847 38.19 2940.903

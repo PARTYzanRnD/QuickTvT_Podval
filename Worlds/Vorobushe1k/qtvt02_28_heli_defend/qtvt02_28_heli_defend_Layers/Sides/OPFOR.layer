@@ -5,8 +5,6 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
     DefaultFormation "LineTight"
    }
    PS_GroupCallsignAssigner "{60FF134A88AD616F}" {
-    m_iCompanyCallsign 1
-    m_iPlatoonCallsign 1
    }
   }
   coords 1673.729 45.428 3147.008
@@ -22,8 +20,7 @@ $grp SCR_AIGroup : "{238285EE8DBF835A}PrefabLibrary/GroupsRHS_RF/Group_RHS_RF_MS
     DefaultFormation "LineTight"
    }
    PS_GroupCallsignAssigner "{60FF134A88AD616F}" {
-    m_iCompanyCallsign 1
-    m_iPlatoonCallsign 2
+    m_iSquadCallsign 1
    }
   }
   coords 1661.928 45.428 3135.42
@@ -43,7 +40,7 @@ $grp Vehicle : "{E1A99B5F2DC9B38A}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_Camo.et
       SlotTemplate InventoryStorageSlot mine {
        Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
       }
-      NumSlots 1
+      NumSlots 4
      }
     }
    }
@@ -59,7 +56,7 @@ $grp Vehicle : "{E1A99B5F2DC9B38A}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_Camo.et
       SlotTemplate InventoryStorageSlot mine {
        Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
       }
-      NumSlots 1
+      NumSlots 4
      }
     }
    }
@@ -75,7 +72,7 @@ $grp Vehicle : "{E1A99B5F2DC9B38A}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_Camo.et
       SlotTemplate InventoryStorageSlot mine {
        Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
       }
-      NumSlots 1
+      NumSlots 4
      }
     }
    }
@@ -91,7 +88,7 @@ $grp Vehicle : "{E1A99B5F2DC9B38A}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_Camo.et
       SlotTemplate InventoryStorageSlot mine {
        Prefab "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
       }
-      NumSlots 1
+      NumSlots 4
      }
     }
    }

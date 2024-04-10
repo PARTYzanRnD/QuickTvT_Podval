@@ -1,7 +1,7 @@
 SCR_AIGroup : "{126BE8C46FA39581}Prefabs/Groups/INDFOR/Group_FIA_FireTeam_P.et" {
  components {
   PS_GroupCallsignAssigner "{610377B0DD05C5D9}" {
-   m_iCompanyCallsign 2
+   m_iCompanyCallsign 1
    m_iPlatoonCallsign 1
   }
  }
@@ -20,8 +20,6 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     DefaultFormation ""
    }
    PS_GroupCallsignAssigner "{610377B382AB5AB8}" {
-    m_iCompanyCallsign 1
-    m_iPlatoonCallsign 1
    }
   }
   coords 2765.927 77.898 1646.702
@@ -38,8 +36,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
     DefaultFormation ""
    }
    PS_GroupCallsignAssigner "{610377B38479BC48}" {
-    m_iCompanyCallsign 1
-    m_iPlatoonCallsign 2
+    m_iSquadCallsign 1
    }
   }
   coords 2755.32 77.898 1662.73

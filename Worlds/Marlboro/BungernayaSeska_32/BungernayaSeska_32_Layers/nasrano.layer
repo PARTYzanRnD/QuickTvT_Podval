@@ -1,0 +1,335 @@
+GenericEntity : "{02A8148519E81867}Prefabs/Props/Wrecks/M998_wreck.et" {
+ coords 1684.714 44.318 2417.77
+ angleZ 179.278
+}
+SCR_DestructibleBuildingEntity : "{22759E6CD7F7BFF8}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Corner_Stairs.et" {
+ coords 1569.828 -0.025 2342.368
+ angleY -176.121
+}
+SCR_DestructibleBuildingEntity : "{24BA2E136E8815C2}Prefabs/Structures/Houses/Shed/Shed_02/Shed_02_line.et" {
+ coords 1565.602 0 2412.408
+ angleY -147.886
+}
+GenericEntity : "{25B265F3E7CBDFC8}Prefabs/Props/Wrecks/BMP1_wreck.et" {
+ coords 1718.657 44.866 2409.208
+ angleX -7.474
+ angleY -26.662
+}
+SCR_DestructibleBuildingEntity : "{2A0D72C46FDCD368}Prefabs/Structures/Houses/Village/House_Village_E_1I04/House_Village_E_1I04t.et" {
+ coords 1840.931 0.266 2326.435
+ angleY -38.152
+}
+$grp GenericEntity : "{2B24356C351A2538}Prefabs/Props/Wrecks/M113_wreck.et" {
+ {
+  coords 1562.322 39.513 2349.389
+ }
+ {
+  coords 1631.364 40.798 2461.609
+  angleX 3.49
+  angleY -112.041
+  angleZ 5.814
+ }
+}
+GenericEntity : "{388B774519BD6294}Prefabs/Props/Wrecks/T62_wreck.et" {
+ coords 1667.288 44.873 2242.283
+ angleX -4.011
+ angleY -22.431
+ angleZ -2.863
+}
+SCR_DestructibleBuildingEntity : "{3E7CF4C5E180F5D1}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Windows.et" {
+ coords 1571.472 0 2332.907
+ angleY 4.106
+}
+SCR_DestructibleBuildingEntity : "{4459413B98E2C9AD}Prefabs/Structures/Houses/Wooden/House_Wooden_E_1I02/House_Wooden_E_1I02.et" {
+ coords 1535.475 0.586 2342.67
+ angleY -89.282
+}
+$grp GenericEntity : "{4A0EB5570B2BB36C}Prefabs/Props/Wrecks/Ural4320_wreck.et" {
+ {
+  coords 1524.958 38.726 2280.844
+  angleX -2.934
+  angleY 72.899
+  angleZ 1.254
+ }
+ {
+  coords 1731.528 47.598 2400.402
+  angleY -80.419
+  angleZ 93.842
+ }
+}
+SCR_DestructibleBuildingEntity : "{4B2072D6C07CC8C1}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Chimney.et" {
+ coords 1572.71 0 2337.552
+}
+StaticModelEntity : "{52ADECE22F634F08}Prefabs/Structures/Cultural/Statues/StatueAnchor_01.et" {
+ coords 1608.31 0.633 2331.75
+ angleX -16.823
+}
+GameEntity : "{52EF7CA11CD1D4C3}Prefabs/Structures/BuildingParts/Ladders/Ladder_HarborCrane_645_B.et" {
+ coords 1610.527 6.22 2412.236
+ angleY -62.814
+}
+SCR_DestructibleBuildingEntity : "{678574044F58E1CA}Prefabs/Structures/Houses/Village/House_Mountain_E_1I01/House_Mountain_E_1I01_short.et" {
+ coords 1513.847 0.523 2384.897
+}
+SCR_DestructibleBuildingEntity : "{6A14F65DCEBC58E9}Prefabs/Structures/Houses/Village/House_Village_E_1I06/House_Village_E_1I06_brown.et" {
+ coords 1752.555 1.158 2222.744
+ angleY -150.528
+}
+GenericEntity : "{6BDDFE9FA1D4B2F0}Prefabs/Props/Wrecks/UAZ469_wreck.et" {
+ coords 1652.803 41.893 2470.325
+ angleX -0.417
+ angleY -28.935
+ angleZ -90.755
+}
+SCR_DestructibleBuildingEntity : "{6FA58B435F69B179}Prefabs/Structures/Houses/Shed/Shed_02/Shed_02_big_V1.et" {
+ coords 1747.36 0.045 2317.032
+ angleY -128.05
+}
+$grp GenericEntity : "{75FEF1CA582431F3}Prefabs/Props/Wrecks/BTR70_wreck.et" {
+ {
+  coords 1668.337 44.744 2343.102
+  angleX -4.609
+  angleY -24.358
+  angleZ -10.065
+ }
+ {
+  coords 1511.094 38.934 2308.864
+  angleY -108.72
+ }
+}
+$grp GenericEntity : "{7783AE4B44D3CF29}Prefabs/Props/Wrecks/M923A1_wreck.et" {
+ {
+  coords 1660.613 45.19 2309.184
+  angleY -0.385
+  angleZ -6.019
+ }
+ {
+  coords 1669.651 41.171 2471.078
+ }
+}
+GenericEntity : "{84CBCE9163176B3E}Prefabs/Props/Wrecks/S105_wreck.et" {
+ coords 1800.059 60.296 2365.166
+ angleX -6.204
+ angleY 0.487
+ angleZ -4.494
+}
+SCR_DestructibleBuildingEntity : "{8C3EF42812208AB4}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Entry.et" {
+ coords 1575.356 0.038 2353.024
+ angleY 6.698
+}
+$grp GenericEntity : "{92A0764C4EDF7C14}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_carbine_OliveGreen_Solid.et" {
+ {
+  coords 1597.267 41.653 2425.358
+  angleZ -90.008
+ }
+ {
+  coords 1597.437 41.376 2425.721
+  angleX 3.129
+  angleY -87.234
+  angleZ -89.857
+ }
+ {
+  coords 1589.633 41.653 2432.021
+  angleY 94.458
+  angleZ -90.008
+ }
+ {
+  coords 1589.982 41.376 2431.824
+  angleX 3.129
+  angleY 7.224
+  angleZ -89.857
+ }
+}
+GenericEntity : "{94DCE76C1FFBA9BA}Prefabs/Structures/BuildingParts/Eletrical/ElectricityBox_01.et" {
+ coords 1606.66 40.599 2409.912
+ angleY -151.328
+}
+$grp GenericEntity : "{A9A385FE1F7BF4BD}Prefabs/Weapons/Magazines/Magazine_556x45_STANAG_30rnd_Tracer.et" {
+ {
+  coords 1597.279 41.144 2425.689
+ }
+ {
+  coords 1597.274 41.143 2425.771
+ }
+ {
+  coords 1597.294 41.221 2425.886
+ }
+ {
+  coords 1597.368 41.266 2425.921
+  angleZ -49.695
+ }
+ {
+  coords 1597.347 41.244 2425.985
+ }
+ {
+  coords 1597.322 41.133 2425.812
+ }
+ {
+  coords 1597.291 41.236 2425.823
+  angleX 13.396
+  angleY 28.277
+  angleZ -23.301
+ }
+ {
+  coords 1597.24 41.237 2425.769
+ }
+ {
+  coords 1597.217 41.243 2425.664
+  angleY 27.527
+  angleZ -28.422
+ }
+ {
+  coords 1597.242 41.238 2425.709
+  angleX 15.867
+  angleY 178.109
+  angleZ -160.535
+ }
+ {
+  coords 1589.962 41.144 2431.984
+  angleY 94.458
+ }
+ {
+  coords 1590.044 41.143 2431.983
+  angleY 94.458
+ }
+ {
+  coords 1590.157 41.221 2431.954
+  angleY 94.458
+ }
+ {
+  coords 1590.186 41.266 2431.877
+  angleY 94.458
+  angleZ -49.695
+ }
+ {
+  coords 1590.252 41.244 2431.893
+  angleY 94.458
+ }
+ {
+  coords 1590.081 41.133 2431.931
+  angleY 94.458
+ }
+ {
+  coords 1590.095 41.236 2431.962
+  angleX 13.396
+  angleY 122.735
+  angleZ -23.301
+ }
+ {
+  coords 1590.045 41.237 2432.017
+  angleY 94.458
+ }
+ {
+  coords 1589.942 41.243 2432.048
+  angleY 121.984
+  angleZ -28.422
+ }
+ {
+  coords 1589.985 41.238 2432.019
+  angleX 15.867
+  angleY -87.433
+  angleZ -160.535
+ }
+}
+SCR_DestructibleBuildingEntity : "{AAB9EC1130878E02}Prefabs/Structures/Ruins/HouseRuins/HouseRuin_01/HouseRuin_01_Corner.et" {
+ coords 1576.197 0.056 2334.81
+ angleY 1.033
+}
+$grp GenericEntity : "{B2658E47B2E284C7}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_3_decal_02.et" {
+ {
+  coords 1597.626 40.894 2425.393
+  angleY -154.664
+ }
+ {
+  coords 1589.64 40.894 2431.661
+  angleY -60.206
+ }
+}
+SCR_DestructibleBuildingEntity : "{B27AF198E146D70D}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01_beige.et" {
+ coords 1811.386 -0.187 2350.641
+ angleY 46.456
+}
+$grp GenericEntity : "{BFF3186D2A9CEFB7}Prefabs/Weapons/Rifles/M16/Rifle_M16A2_carbine_AP2k.et" {
+ {
+  coords 1596.904 41.205 2425.415
+  angleX 68.207
+  angleY 69.314
+  angleZ 41.142
+ }
+ {
+  coords 1596.998 41.218 2425.578
+  angleX 68.207
+  angleY 83.658
+  angleZ 41.142
+ }
+ {
+  coords 1589.718 41.205 2432.379
+  angleX 68.207
+  angleY 163.771
+  angleZ 41.142
+ }
+ {
+  coords 1589.873 41.218 2432.273
+  angleX 68.207
+  angleY 178.115
+  angleZ 41.142
+ }
+}
+$grp GenericEntity : "{D7690D6BB82B50D7}Prefabs/Weapons/Rifles/M16/Variants/Rifle_M16A2_carbine_OliveGreen_Sand_Stripes.et" {
+ {
+  coords 1597.532 41.378 2425.801
+  angleX 7.97
+  angleY -84.372
+  angleZ -73.512
+ }
+ {
+  coords 1590.054 41.378 2431.723
+  angleX 7.97
+  angleY 10.086
+  angleZ -73.512
+ }
+}
+GenericEntity : "{D99955DFCF7D3962}Prefabs/Props/Wrecks/CannonWreck_01.et" {
+ coords 1569.414 39.699 2367.967
+ angleY 133.005
+}
+$grp GenericEntity : "{E021E2FFF02ADF0C}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_01/LampStreet_E_01_4m.et" {
+ {
+  coords 1551.513 0 2406.386
+ }
+ {
+  coords 1539.552 0 2428.836
+ }
+ {
+  coords 1570.666 0 2389.911
+ }
+ {
+  coords 1594.692 0 2398.256
+ }
+ {
+  coords 1579.878 0 2408.216
+ }
+}
+GameEntity : "{E7FD0B8019E96F73}Prefabs/Structures/BuildingParts/Lights/LampTower_01.et" {
+ coords 1586.522 48.546 2428.878
+ angleY -56.444
+}
+GenericEntity : "{EB084C400AABD1D3}Prefabs/Props/Wrecks/M151A2_wreck.et" {
+ coords 1669.809 42.003 2474.636
+ angleX -47.964
+}
+SCR_DestructibleBuildingEntity : "{EDBC0E94793BA9F1}Prefabs/Structures/Houses/Village/House_Village_E_1I01/House_Village_E_1I01.et" {
+ coords 1520.267 0 2361.941
+}
+SCR_DestructibleBuildingEntity : "{F08D8E78433D713A}Prefabs/Structures/Houses/Shed/Shed_01/Shed_01.et" {
+ coords 1674.568 0.088 2486.566
+ angleY -152.339
+}
+SCR_DestructibleBuildingEntity : "{FC4BFDB06DC30F3F}Prefabs/Structures/Services/Hotels/MountainHotel_01/MountainHotel_01_red.et" {
+ coords 1601.959 0.3 2424.836
+ angleY 28.652
+}
+SCR_DestructibleBuildingEntity : "{FF45F0D3CBF5F8A6}Prefabs/Structures/Infrastructure/Bus/BusShed_E_01/BusShed_E_01_green.et" {
+ coords 1535.447 0 2417.531
+ angleY 74.184
+}
