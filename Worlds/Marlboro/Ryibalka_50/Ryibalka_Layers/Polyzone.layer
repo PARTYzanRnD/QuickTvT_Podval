@@ -2,8 +2,12 @@ $grp PolylineShapeEntity : "{52693A94BD70373C}Prefabs/PolyZone/PolyZone_Freeze.e
  {
   components {
    PS_PolyZone "{60E90266F25533F6}" {
+    m_mPolygonTexture "{62F4404928D33DB5}UI/layouts/Textures/Grid1b.edds"
     m_cPolygonColor 0.157 0.275 0.624 1
     m_cPolygonBorderColor 1 1 1 0
+    m_aVisibleForFactions {
+     "" "US" "FIA"
+    }
    }
   }
   coords 2902.059 35.844 1394.386
@@ -43,29 +47,33 @@ $grp PolylineShapeEntity : "{52693A94BD70373C}Prefabs/PolyZone/PolyZone_Freeze.e
  {
   components {
    PS_PolyZone "{60E90266F25533F6}" {
+    m_mPolygonTexture "{62F4404928D33DB5}UI/layouts/Textures/Grid1b.edds"
     m_cPolygonColor 0 0.502 0.125 1
     m_cPolygonBorderColor 1 1 1 0
+    m_aVisibleForFactions {
+     "" "US" "FIA"
+    }
    }
   }
   coords 3284.23 0 1016.845
   Points {
    ShapePoint "{6110C23BC9451BD2}" {
-    Position 98.191 -0 143.658
+    Position 98.191 0 143.658
    }
    ShapePoint "{6110C23BCC16FBAE}" {
     Position 57.146 0 253.055
    }
    ShapePoint "{6110C23BCD870B02}" {
-    Position 9.708 -0 320.697
+    Position 9.708 0 320.697
    }
    ShapePoint "{6110C23BCF433076}" {
-    Position -90.538 -0 289.103
+    Position -90.538 0 289.103
    }
    ShapePoint "{6110C23BF0A2B0B2}" {
-    Position -156.964 -0 253.925
+    Position -156.964 0 253.925
    }
    ShapePoint "{6110C23BF97BB7D4}" {
-    Position -273.745 -0 194.286
+    Position -273.745 0 194.286
    }
    ShapePoint "{6110C23BFA88FFFB}" {
     Position -327.79 0 159.706
@@ -77,18 +85,26 @@ $grp PolylineShapeEntity : "{52693A94BD70373C}Prefabs/PolyZone/PolyZone_Freeze.e
     Position -328.443 0 54.786
    }
    ShapePoint "{6110C23BFD06BF8C}" {
-    Position -283.217 -0 -9.473
+    Position -283.217 0 -9.473
    }
    ShapePoint "{6110C23BFD8FBCF3}" {
-    Position -179.561 -0 -16.889
+    Position -179.561 0 -16.889
    }
    ShapePoint "{6110C23BFE78C5C2}" {
-    Position -80.553 -0 -31.376
+    Position -80.553 0 -31.376
    }
   }
  }
 }
 PolylineShapeEntity : "{7019844BAD5C4DD8}Prefabs/PolyZone/PolyZone_Border.et" {
+ components {
+  PS_PolyZone "{60E90266F25533F6}" {
+   m_cPolygonBorderColor 1 1 1 0
+   m_aVisibleForFactions {
+    "" "US" "FIA"
+   }
+  }
+ }
  coords 2689.876 42.221 1412.493
  Points {
   ShapePoint "{6110C239F7F8BE61}" {
@@ -104,13 +120,13 @@ PolylineShapeEntity : "{7019844BAD5C4DD8}Prefabs/PolyZone/PolyZone_Border.et" {
    Position 201.106 0 131.701
   }
   ShapePoint "{6110C239FEE39B96}" {
-   Position 251.355 -0 160.276
+   Position 251.355 0 160.276
   }
   ShapePoint "{6110C239FF02B5E5}" {
-   Position 280.874 -0 182.773
+   Position 280.874 0 182.773
   }
   ShapePoint "{6110C239E25027AF}" {
-   Position 355.745 -0 225.024
+   Position 355.745 0 225.024
   }
   ShapePoint "{6110C239E3E1515F}" {
    Position 495.936 0 266.306
@@ -119,22 +135,22 @@ PolylineShapeEntity : "{7019844BAD5C4DD8}Prefabs/PolyZone/PolyZone_Border.et" {
    Position 581.082 0 267.974
   }
   ShapePoint "{6110C239E74E0053}" {
-   Position 653.08 -0 228.1
+   Position 653.08 0 228.1
   }
   ShapePoint "{6110C239E7FAAED4}" {
-   Position 721.263 -0 193.546
+   Position 721.263 0 193.546
   }
   ShapePoint "{6110C239EB7E0EFC}" {
-   Position 810.912 -0 121.206
+   Position 810.912 0 121.206
   }
   ShapePoint "{6110C239ECC99E7D}" {
    Position 956.836 0 -27.365
   }
   ShapePoint "{6110C239EE0DF275}" {
-   Position 1150.552 -0 -363.728
+   Position 1150.552 0 -363.728
   }
   ShapePoint "{6110C239EEBCE9FB}" {
-   Position 985.24 -0 -711.833
+   Position 985.24 0 -711.833
   }
   ShapePoint "{6110C239910A334D}" {
    Position 573.959 0 -929.951
@@ -152,7 +168,7 @@ PolylineShapeEntity : "{7019844BAD5C4DD8}Prefabs/PolyZone/PolyZone_Border.et" {
    Position -238.698 0 -528.526
   }
   ShapePoint "{6110C2399CCF2494}" {
-   Position -261.265 -0 -296.479
+   Position -261.265 0 -296.479
   }
  }
 }
@@ -160,7 +176,11 @@ PolylineShapeEntity : "{FDFD30B35486D6F1}Prefabs/PolyZone/PolyZone_CaptureUSxUSS
  components {
   PS_PolyZone "{60E90266F25533F6}" {
    m_mPolygonTexture "{928B4092981F27CB}UI/layouts/Textures/Zone.edds"
+   m_cPolygonColor 1 1 1 0.394
    m_cPolygonBorderColor 1 1 1 0
+   m_aVisibleForFactions {
+    "" "US" "FIA"
+   }
   }
  }
  coords 3196.662 4.239 1191.666
