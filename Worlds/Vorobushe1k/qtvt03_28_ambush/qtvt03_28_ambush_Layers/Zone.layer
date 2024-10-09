@@ -42,6 +42,7 @@ $grp PolylineShapeEntity {
      "SCR_ChimeraCharacter"
     }
     m_polyZoneEffect PS_PolyZoneEffectRestricted "{6102F2CE936D5095}" {
+     m_fKillTime 4
     }
     m_bReversed 1
     m_sGroupKey "Res"

@@ -1,14 +1,17 @@
 SCR_AIGroup : "{126BE8C46FA39581}Prefabs/Groups/INDFOR/Group_FIA_FireTeam_P.et" {
  components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation ""
+  }
   PS_GroupCallsignAssigner "{610377B0DD05C5D9}" {
    m_iCompanyCallsign 1
    m_iPlatoonCallsign 1
   }
  }
- coords 3195.536 40.078 1413.827
- angleY -148.4
+ coords 3195.859 40.078 1414.23
+ angleY -158.753
  m_aUnitPrefabSlots {
-  "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_SL_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et"
+  "{9435239320AC0896}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Squad_Leader.et" "{C7B4723AFD0E1258}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Senior_Rifleman2.et" "{1E2A85217B924E4C}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Rifleman1.et" "{727EB1C1C756C165}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Rifleman2.et"
  }
  m_bDeleteWhenEmpty 0
  m_sCustomNameSet "2-1"
@@ -25,7 +28,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
   coords 2765.927 77.898 1646.702
   angleY -115.514
   m_aUnitPrefabSlots {
-   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_SL_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_MG_P.et" "{E691995C5D7CD7A4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AMG_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et"
+   "{9435239320AC0896}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Squad_Leader.et" "{1E2A85217B924E4B}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Senior_Rifleman1.et" "{C7B4723AFD0E1258}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Senior_Rifleman2.et" "{1C4EE5BB98A76060}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_MachineGunner.et" "{1E2A85217B924E4C}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Rifleman1.et" "{727EB1C1C756C165}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Rifleman2.et"
   }
   m_bDeleteWhenEmpty 0
   m_sCustomNameSet "1-1"
@@ -42,7 +45,7 @@ $grp SCR_AIGroup : "{17C7309FFE4775B0}Prefabs/Groups/INDFOR/Group_FIA_RifleSquad
   coords 2755.32 77.898 1662.73
   angleY -132.277
   m_aUnitPrefabSlots {
-   "{5E10F18AF4717622}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_SL_P.et" "{6EF882860DCD77D1}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_MG_P.et" "{E691995C5D7CD7A4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AMG_P.et" "{46451B805F2CDE56}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AT_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et" "{BF44997B8982C009}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman_P.et"
+   "{9435239320AC0896}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Squad_Leader.et" "{1E2A85217B924E4B}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Senior_Rifleman1.et" "{C7B4723AFD0E1258}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Senior_Rifleman2.et" "{1C4EE5BB98A76060}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_MachineGunner.et" "{1E2A85217B924E4C}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Rifleman1.et" "{727EB1C1C756C165}Prefabs/Characters/Factions/INDFOR/FIA/MSV1/FIA1_Rifleman2.et"
   }
   m_bDeleteWhenEmpty 0
   m_sCustomNameSet "1-2"

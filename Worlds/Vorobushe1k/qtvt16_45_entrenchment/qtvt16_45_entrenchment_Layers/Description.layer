@@ -4,7 +4,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ОПИСАНИЕ"
   m_sTextData "ВСРФ организовали высадку на северо-западе острова и успели окопаться, установив 2 крупнокалиберных пулемета. "\
   ""\
-  "Время на миссию: 9 минут."\
+  "Время на миссию: 6 минут."\
   ""
   m_aVisibleForFactions {
    "" "RHS_US_USMC" "RHS_RF_MSV"
@@ -24,7 +24,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  DESCRIPTION3 {
   coords 1660.408 39.022 3027.457
   m_sTitle "ЗАДАЧИ ВСРФ"
-  m_sTextData "Как минмум 1 боец должен остаться в живых."
+  m_sTextData "Удержать плацдарм."
   m_aVisibleForFactions {
    "" "" "RHS_RF_MSV"
   }
@@ -32,7 +32,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  DESCRIPTION4 {
   coords 1660.408 39.022 3027.457
   m_sTitle "ЗАДАЧИ США"
-  m_sTextData "Уничтожить ВСЕХ бойцов ВСРФ"
+  m_sTextData "Захватить плацдарм."
   m_aVisibleForFactions {
    "" "RHS_US_USMC" ""
   }

@@ -212,11 +212,21 @@ $grp Vehicle : "{81FDAD5EB644CC3D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transpo
 }
 $grp GenericEntity : "{9F35A268E0DD98A4}Prefabs/Props/Military/Fuel/MobileWaterTank_US_01_fuel.et" {
  {
+  components {
+   SCR_LifetimeComponent "{611F26CCFDD75C2E}" {
+    m_fLifeTime 1720
+   }
+  }
   coords 3309.97 2 2868.004
   angleX -0.336
   angleY 15.846
  }
  {
+  components {
+   SCR_LifetimeComponent "{611F26CCF28873BE}" {
+    m_fLifeTime 1720
+   }
+  }
   coords 3313.361 2.002 2866.571
   angleX -0.236
   angleY -29.571

@@ -125,6 +125,20 @@ $grp StaticModelEntity : "{AF8D04AE2FDC3351}Prefabs/Structures/Military/Fortific
   angleZ -2.047
  }
 }
+$grp GenericEntity : "{B90E5414AB7C325B}Prefabs/Props/Wrecks/BTR70_wreck_static.et" {
+ {
+  coords 1029.044 0.701 3524.434
+  angleX 1.699
+  angleY -161.538
+  angleZ -2.262
+ }
+ {
+  coords 1058.74 0.689 3523.756
+  angleX 0.864
+  angleY 164.849
+  angleZ -0.234
+ }
+}
 $grp StaticModelEntity : "{F4D70CC286F0181E}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/TrenchOld_01_6m_metal_end_forest.et" {
  {
   coords 962.469 -0.307 3480.006
