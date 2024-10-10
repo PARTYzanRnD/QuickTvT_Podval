@@ -11,6 +11,7 @@ PS_GameModeQuickTvT PS_GameMode_QuickTvT1 : "{FF0F19DC6E834F3D}Prefabs/MP/Modes/
   }
  }
  m_bMarkersOnlyOnBriefing 1
+ m_bRemoveRedundantUnits 0
  m_bDisableChat 1
  m_bReserveSlots 1
  m_iPreviewTime 45000

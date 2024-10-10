@@ -1,5 +1,5 @@
 PS_ManualMarker ObjectiveMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
- coords 3066.259 75.392 1581.108
+ coords 1371.273 43.981 2351.321
  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
  m_sImageSetGlow ""
  m_sQuadName "HQ_HUD"

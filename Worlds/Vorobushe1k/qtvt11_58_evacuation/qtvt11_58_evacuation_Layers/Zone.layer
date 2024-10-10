@@ -639,4 +639,52 @@ $grp PolylineShapeEntity {
    }
   }
  }
+ asdasdasd3 {
+  components {
+   PS_PolyZone "{6102F2CF500C83D1}" {
+   }
+  }
+  coords 3387.071 0 2910.033
+  Points {
+   ShapePoint "{61113E7788A4532E}" {
+    Position -0.216 -3.781 -0.244
+   }
+   ShapePoint "{61113E77839F470C}" {
+    Position 9.034 -3.621 2.976
+   }
+   ShapePoint "{61113E707FF8A601}" {
+    Position -18.84 -5.281 71.906
+   }
+   ShapePoint "{61113E707EA40D10}" {
+    Position -51.103 -5.28 98.96
+   }
+   ShapePoint "{61113E7074F35666}" {
+    Position -56.884 -4.76 92.188
+   }
+   ShapePoint "{61113E7071CC5919}" {
+    Position -28.347 -5.093 65.581
+   }
+  }
+  IsClosed 1
+  {
+   PS_PolyZoneTrigger {
+    components {
+     Hierarchy "{6102F809C35E4741}" {
+     }
+    }
+    TriggerShapeType Polyline
+    "Polyline Height" 15.6
+    DrawShape 1
+    TriggerActivationType "All changes"
+    PeriodicQueries 1
+    UpdatePeriod 0.1
+    ClassesFilter {
+     "SCR_ChimeraCharacter"
+    }
+    m_polyZoneEffect PS_PolyZoneEffectRestricted "{6102F2CE936D5095}" {
+     m_fKillTime 0.2
+    }
+   }
+  }
+ }
 }
