@@ -81,14 +81,14 @@ PolylineShapeEntity : "{FDFD30B35486D6F1}Prefabs/PolyZone/PolyZone_CaptureUSxUSS
    ID "60E90618BF39F892"
    m_sTitle "Захватить здание"
    m_sTextData ""
-   m_sFactionKey "RHS_US_USMC"
+   m_sFactionKey "RHS_USAF"
    m_bAdvanceWhenTriggered 1
   }
   PS_Objective {
    ID "60E90618BF26288E"
    m_sTitle "Захватить здание"
    m_sTextData ""
-   m_sFactionKey "RHS_RF_MSV"
+   m_sFactionKey "RHS_AFRF"
    m_bAdvanceWhenTriggered 1
   }
  }

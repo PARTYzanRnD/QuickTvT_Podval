@@ -8,7 +8,7 @@ PS_ManualMarker ObjectiveMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/Edi
  m_sDescription "Objective"
  m_bUseWorldScale 0
  m_aVisibleForFactions {
-  "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" ""
+  "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" ""
  }
  m_bVisibleForEmptyFaction 1
  m_aHideOnGameModeStates {

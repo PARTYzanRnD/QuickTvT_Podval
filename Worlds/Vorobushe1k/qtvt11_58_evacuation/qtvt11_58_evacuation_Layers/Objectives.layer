@@ -6,7 +6,7 @@ GenericEntity : "{6D56FED1E55A8F84}Prefabs/Items/Misc/IntelligenceFolder_E_01/In
     m_sQuadName "field-manual"
     m_sDescription "Documents"
     m_aVisibleForFactions {
-     "RHS_RF_MSV" "RHS_US_USMC"
+     "RHS_AFRF" "RHS_USAF"
     }
     m_bVisibleForEmptyFaction 1
    }
@@ -28,7 +28,7 @@ GenericEntity : "{6D56FED1E55A8F84}Prefabs/Items/Misc/IntelligenceFolder_E_01/In
    m_sDescription "Documents"
    m_bUseWorldScale 1
    m_aVisibleForFactions {
-    "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+    "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF"
    }
    m_bVisibleForEmptyFaction 1
    m_aHideOnGameModeStates {
@@ -55,7 +55,7 @@ PolylineShapeEntity : "{C6DAEFE44431B98A}PrefabLibrary/PolyZones/PolyZone_Destro
    ID "60E9062E6BABF763"
    m_sTitle "Пилот убит."
    m_iScore 50
-   m_sFactionKey "RHS_RF_MSV"
+   m_sFactionKey "RHS_AFRF"
   }
   PS_PolyZoneObjectiveTriggerDestroy {
    ID "60E9062E6BABF765"
@@ -112,7 +112,7 @@ $grp PolylineShapeEntity : "{DCA90362FBC25FB4}Prefabs/PolyZone/PolyZone_Presence
    PS_Objective {
     ID "60E9062D2F15A7F1"
     m_sTitle "Документы вывезены"
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
     m_bAdvanceWhenTriggered 1
    }
    PS_PolyZoneObjectivePresence {
@@ -258,7 +258,7 @@ $grp PolylineShapeEntity : "{DCA90362FBC25FB4}Prefabs/PolyZone/PolyZone_Presence
     ID "60E9062D2F15A7F1"
     m_sTitle "Документы остались на базе"
     m_iScore 50
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
    PS_PolyZoneObjectivePresence {
     components {
@@ -301,7 +301,7 @@ $grp PolylineShapeEntity : "{DCA90362FBC25FB4}Prefabs/PolyZone/PolyZone_Presence
     ID "60E9062D2F15A7F1"
     m_sTitle "Документы вывезены."
     m_iScore 50
-    m_sFactionKey "RHS_RF_MSV"
+    m_sFactionKey "RHS_AFRF"
     m_bAdvanceWhenTriggered 1
    }
    PS_PolyZoneObjectivePresence {

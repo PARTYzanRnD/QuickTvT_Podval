@@ -7,7 +7,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Время на миссию: 8 минут."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -16,7 +16,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "УСЛОВНОСТИ"
   m_sTextData "'''\_(^_^)_/'''"
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -25,7 +25,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ ВСРФ"
   m_sTextData "Захватить коровник или уничтожить противника."
   m_aVisibleForFactions {
-   "" "" "RHS_RF_MSV"
+   "" "" "RHS_AFRF"
   }
  }
  DESCRIPTION4 {
@@ -33,7 +33,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ США"
   m_sTextData "Захватить коровник или уничтожить противника."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" ""
+   "" "RHS_USAF" ""
   }
  }
 }

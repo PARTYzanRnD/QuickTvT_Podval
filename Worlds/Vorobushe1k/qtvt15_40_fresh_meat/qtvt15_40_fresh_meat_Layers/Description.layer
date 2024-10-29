@@ -7,7 +7,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Время на миссию: 8 минут."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -21,7 +21,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Отделениям 1-1, 1-2, 1-3 РФ запрещено открывать ответный огонь по отделению 2-1."\
   "Всем запрещено пересекать черный маркер."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -30,7 +30,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ ВСРФ"
   m_sTextData "Захватить центр управления."
   m_aVisibleForFactions {
-   "" "" "RHS_RF_MSV"
+   "" "" "RHS_AFRF"
   }
  }
  DESCRIPTION4 {
@@ -38,7 +38,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ США"
   m_sTextData "Удержать центр управления."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" ""
+   "" "RHS_USAF" ""
   }
  }
 }

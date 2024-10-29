@@ -6,7 +6,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Время на миссию: 15 минут."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -21,7 +21,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Взаимодействовать с документами (брать в инвентарь и тд.) имеют права только красная сторона, а также пилот."\
   "Управлять вертолетом имеет право только пилот."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -31,7 +31,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTextData "Уничтожить пилота, а также перевезти папку через красный маркер."\
   "(После перевозки через маркер, ее необходимо выложить из инвентаря на землю)"
   m_aVisibleForFactions {
-   "" "" "RHS_RF_MSV"
+   "" "" "RHS_AFRF"
   }
  }
  DESCRIPTION4 {
@@ -42,7 +42,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "(Вертолет заправляется в течении 10 минут, посадка до этого время в него невозможна)"\
   "// В вертолет можно будет сесть, как только пропадут баки с топливом, стоящие позади."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" ""
+   "" "RHS_USAF" ""
   }
  }
 }

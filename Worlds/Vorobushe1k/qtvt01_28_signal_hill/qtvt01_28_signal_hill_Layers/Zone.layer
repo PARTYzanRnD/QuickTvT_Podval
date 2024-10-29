@@ -58,7 +58,7 @@ $grp PolylineShapeEntity {
     m_polyZoneEffect PS_PolyZoneEffectRestricted "{6102F2CE936D5095}" {
     }
     m_bReversed 1
-    m_sFactionKey "RHS_RF_MSV"
+    m_sFactionKey "RHS_AFRF"
    }
   }
  }
@@ -70,7 +70,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderUVScale 0.001
     m_fPolygonBorderWidth 9
     m_aVisibleForFactions {
-     "US" "USSR" "RHS_RF_MSV" "" "RHS_US_USMC"
+     "US" "USSR" "RHS_AFRF" "" "RHS_USAF"
     }
    }
   }

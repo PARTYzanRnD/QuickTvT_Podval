@@ -65,7 +65,7 @@ $grp PolylineShapeEntity : "{DCA90362FBC25FB4}Prefabs/PolyZone/PolyZone_Presence
    PS_Objective {
     ID "60E9062D2F15A7F1"
     m_sTitle "Грузовик доставлен ВСРФ"
-    m_sFactionKey "RHS_RF_MSV"
+    m_sFactionKey "RHS_AFRF"
     m_bAdvanceWhenTriggered 1
    }
    PS_PolyZoneObjectivePresence {

@@ -37,7 +37,7 @@ PolylineShapeEntity {
     m_sTitle "Штаб США захвачен."
     m_sTextData ""
     m_iScore 100
-    m_sFactionKey "RHS_RF_MSV"
+    m_sFactionKey "RHS_AFRF"
     m_bAdvanceWhenTriggered 1
    }
    {
@@ -50,7 +50,7 @@ PolylineShapeEntity {
     m_sTitle "Штаб США защищен."
     m_sTextData ""
     m_iScore 100
-    m_sFactionKey "RHS_US_USMC"
+    m_sFactionKey "RHS_USAF"
    }
   }
   PS_PolyZoneObjectiveTriggerCapture CaptureTrigger {
@@ -71,7 +71,7 @@ PolylineShapeEntity {
     m_sTriggerName "CaptureTrigger"
    }
    m_fCaptureTime 45
-   m_sCurrentFaction "RHS_US_USMC"
+   m_sCurrentFaction "RHS_USAF"
    m_bEasyTake 1
    m_bTimeLoss 1
   }

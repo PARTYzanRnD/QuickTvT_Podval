@@ -7,7 +7,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Время на миссию: 6 минут."\
   ""
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -17,7 +17,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTextData "ВСРФ запрещено пересекать красный маркер."\
   "Всем запрещено пересекать черный маркер."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -26,7 +26,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ ВСРФ"
   m_sTextData "Удержать плацдарм."
   m_aVisibleForFactions {
-   "" "" "RHS_RF_MSV"
+   "" "" "RHS_AFRF"
   }
  }
  DESCRIPTION4 {
@@ -34,7 +34,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ США"
   m_sTextData "Захватить плацдарм."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" ""
+   "" "RHS_USAF" ""
   }
  }
 }

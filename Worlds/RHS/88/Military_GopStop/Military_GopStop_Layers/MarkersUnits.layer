@@ -9,7 +9,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Артель Афериста Вартаняна"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -27,7 +27,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Артель Буйного Агриппы"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -45,7 +45,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Артель Буйного Бадюка"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -63,7 +63,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Артель Буйного Вартаняна"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -81,7 +81,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Артель Весельчака Агриппы"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -99,7 +99,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Артель Весельчака Бадюка"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -117,7 +117,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Артель Весельчака Вартаняна"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -135,7 +135,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Банда Афериста Агриппы"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -153,7 +153,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Банда Афериста Бадюка"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -171,7 +171,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Банда Афериста Вартаняна"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -192,7 +192,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda105_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -213,7 +213,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda105_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -232,7 +232,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda105_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -253,7 +253,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda105_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -274,7 +274,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda1203_Minibus_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -295,7 +295,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda1203_Minibus_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -316,7 +316,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda1203_Minibus_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -335,7 +335,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda1203_Minibus_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -354,7 +354,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda1203_Minibus_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -375,7 +375,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda1203_Minibus_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -396,7 +396,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Skoda1203_Minibus_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -414,7 +414,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-12"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -432,7 +432,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-13"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -450,7 +450,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-21"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -468,7 +468,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-22"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -486,7 +486,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-23"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -507,7 +507,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_UAZ452A_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -526,7 +526,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_UAZ469_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -547,7 +547,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Ural4320_Ammo_Name #RHS-Camo"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -568,7 +568,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name #RHS-Camo"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -589,7 +589,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_Ural4320_Transport_Covered_Name #RHS-Camo"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC" "PS_CheeseRaiders"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -607,7 +607,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Артель Афериста Бадюка"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV" "PS_CheeseRaiders"
+   "FIA" "RHS_USAF" "RHS_AFRF" "PS_CheeseRaiders"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
