@@ -1,0 +1,97 @@
+PolylineShapeEntity : "{7019844BAD5C4DD8}Prefabs/PolyZone/PolyZone_Border.et" {
+ components {
+  PS_PolyZone "{60E90266F25533F6}" {
+   m_aVisibleForFactions + {
+    "RHS_US_USMC" "RHS_RF_MSV"
+   }
+  }
+ }
+ coords 6544.143 126.061 5368.372
+ Points {
+  ShapePoint "{62931473ABB8E3D5}" {
+   Position -33.009 -45.745 129.354
+  }
+  ShapePoint "{62931473AB1AEC75}" {
+   Position -138.833 -44.217 242.724
+  }
+  ShapePoint "{62931473ACF6A767}" {
+   Position -254.997 -38.636 298.189
+  }
+  ShapePoint "{62931473AC533BFE}" {
+   Position -350.866 -40.901 374.624
+  }
+  ShapePoint "{62931473AFD81458}" {
+   Position -410.214 -33.377 544.809
+  }
+  ShapePoint "{62931473AF784302}" {
+   Position -381.145 -6.184 698.486
+  }
+  ShapePoint "{62931473B0953DE6}" {
+   Position -132.788 21.663 912.152
+  }
+  ShapePoint "{62931473B034EDB9}" {
+   Position 169.502 20.218 940.837
+  }
+  ShapePoint "{62931473B058C39D}" {
+   Position 275.26 11.757 984.405
+  }
+  ShapePoint "{62931473B1F7D0B6}" {
+   Position 534.871 -18.581 915.708
+  }
+  ShapePoint "{62931473B11E6CBE}" {
+   Position 709.868 -32.833 753.588
+  }
+  ShapePoint "{62931473B2BD9781}" {
+   Position 838.167 -69.655 623.361
+  }
+  ShapePoint "{62931473B2C3ECB2}" {
+   Position 908.609 -30.483 440.029
+  }
+  ShapePoint "{62931473B268426A}" {
+   Position 1045.521 -50.86 317.741
+  }
+  ShapePoint "{62931473B38AA966}" {
+   Position 1164.567 -62.822 127.996
+  }
+  ShapePoint "{62931473B327E43E}" {
+   Position 1161.286 -34.138 -37.407
+  }
+  ShapePoint "{62931473B34CD9FE}" {
+   Position 1081.858 -17.397 -160.398
+  }
+  ShapePoint "{62931473B4927078}" {
+   Position 732.841 -4.181 -512.986
+  }
+  ShapePoint "{62931473B43851BB}" {
+   Position 621.376 -6.703 -566.142
+  }
+  ShapePoint "{62931473B457F95C}" {
+   Position 528.078 -13.866 -561.938
+  }
+  ShapePoint "{62931473B5FC932B}" {
+   Position 341.122 -44.375 -525.763
+  }
+  ShapePoint "{62931473B50246DC}" {
+   Position 209.889 -57.848 -473.989
+  }
+  ShapePoint "{62931473B6A7EB30}" {
+   Position 134.186 -58.697 -430.705
+  }
+  ShapePoint "{62931473B6C3976D}" {
+   Position 85.378 -50.184 -318.333
+  }
+  ShapePoint "{62931473B668954B}" {
+   Position 55.047 -40.136 -175.828
+  }
+  ShapePoint "{62931473B78C80A7}" {
+   Position 37.861 -39.55 -97.063
+  }
+ }
+ {
+  PS_PolyZoneTrigger {
+   ID "60FD050E1E83544C"
+   m_polyZoneEffect PS_PolyZoneEffectScreenBlure "{60FD050E0DC2A2AB}" {
+   }
+  }
+ }
+}

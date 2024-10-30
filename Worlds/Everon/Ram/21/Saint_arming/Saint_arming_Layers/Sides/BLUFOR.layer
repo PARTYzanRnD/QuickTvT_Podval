@@ -1,0 +1,14 @@
+SCR_AIGroup RHS_USAF_G_001_9 : "{DA70F249A8B7A366}Prefabs/Groups/BLUFOR/RHS_USAF/RHS_USAF_MARSOC/Group_USAF_USMC_MARSOC_RifleSquad.et" {
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation ""
+  }
+  PS_GroupCallsignAssigner "{6292FAA0652B71EC}" {
+   m_iCompanyCallsign 0
+   m_iPlatoonCallsign 0
+   m_iSquadCallsign 1
+  }
+ }
+ coords 6584.991 109.594 5886.666
+ angleY 41.015
+}
