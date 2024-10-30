@@ -6,7 +6,7 @@ $grp PolylineShapeEntity : "{52693A94BD70373C}Prefabs/PolyZone/PolyZone_Freeze.e
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 1 0 0 0
     m_aVisibleForFactions + {
-     "RHS_US_USMC" "RHS_RF_MSV"
+     "RHS_USAF" "RHS_AFRF"
     }
    }
   }
@@ -42,7 +42,7 @@ $grp PolylineShapeEntity : "{52693A94BD70373C}Prefabs/PolyZone/PolyZone_Freeze.e
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0 0.074 1 0
     m_aVisibleForFactions + {
-     "RHS_US_USMC" "RHS_RF_MSV"
+     "RHS_USAF" "RHS_AFRF"
     }
    }
   }

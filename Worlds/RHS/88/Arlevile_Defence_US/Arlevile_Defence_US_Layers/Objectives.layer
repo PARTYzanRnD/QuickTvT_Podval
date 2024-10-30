@@ -39,7 +39,7 @@ PolylineShapeEntity : "{FDFD30B35486D6F1}Prefabs/PolyZone/PolyZone_CaptureUSxUSS
    }
    m_fCaptureTime 300
    m_iPowerBalance 4
-   m_sCurrentFaction "RHS_US_USMC"
+   m_sCurrentFaction "RHS_USAF"
    m_bEasyTake 1
    m_bTimeLoss 1
   }
@@ -47,13 +47,13 @@ PolylineShapeEntity : "{FDFD30B35486D6F1}Prefabs/PolyZone/PolyZone_CaptureUSxUSS
    ID "60E90618BF39F892"
    m_sTitle "Удержать гостинницу Арлевиля"
    m_sTextData ""
-   m_sFactionKey "RHS_US_USMC"
+   m_sFactionKey "RHS_USAF"
   }
   PS_Objective {
    ID "60E90618BF26288E"
    m_sTitle "Захватить гостинницу Арлевиля"
    m_sTextData ""
-   m_sFactionKey "RHS_RF_MSV"
+   m_sFactionKey "RHS_AFRF"
    m_bAdvanceWhenTriggered 1
   }
  }

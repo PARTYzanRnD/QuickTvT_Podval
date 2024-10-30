@@ -19,7 +19,7 @@ PolylineShapeEntity : "{127D357736B0C350}Prefabs/PolyZone/PolyZone_Destroy.et" {
    ID "60E9062E6BABF763"
    m_sTitle "Все вертолеты уничтожены."
    m_iScore 200
-   m_sFactionKey "RHS_RF_MSV"
+   m_sFactionKey "RHS_AFRF"
    m_bAdvanceWhenTriggered 1
   }
   PS_PolyZoneObjectiveTriggerDestroy {
@@ -56,7 +56,7 @@ PolylineShapeEntity : "{DCA90362FBC25FB4}Prefabs/PolyZone/PolyZone_Presence.et" 
    ID "60E9062D2F15A7F1"
    m_sTitle "Как минимум один вертолет уцелел."
    m_iScore 200
-   m_sFactionKey "RHS_US_USMC"
+   m_sFactionKey "RHS_USAF"
   }
   PS_PolyZoneObjectivePresence {
    components {

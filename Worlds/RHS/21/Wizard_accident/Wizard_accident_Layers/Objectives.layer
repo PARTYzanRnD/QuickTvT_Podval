@@ -36,7 +36,7 @@ PolylineShapeEntity : "{7882697F7345B966}PrefabLibrary/PolyZones/PolyZone_Presen
   PS_Objective {
    ID "60E9062D2F15A7F1"
    m_sTitle "Доставить помощь раненому магу."
-   m_sFactionKey "RHS_US_USMC"
+   m_sFactionKey "RHS_USAF"
    m_bAdvanceWhenTriggered 1
   }
   PS_PolyZoneObjectivePresence {
@@ -78,7 +78,7 @@ PolylineShapeEntity : "{C6DAEFE44431B98A}PrefabLibrary/PolyZones/PolyZone_Destro
   PS_Objective {
    ID "60E9062E6BABF763"
    m_sTitle "Уничтожить машину еретиков."
-   m_sFactionKey "RHS_RF_MSV"
+   m_sFactionKey "RHS_AFRF"
    m_bAdvanceWhenTriggered 1
   }
   PS_PolyZoneObjectiveTriggerDestroy {

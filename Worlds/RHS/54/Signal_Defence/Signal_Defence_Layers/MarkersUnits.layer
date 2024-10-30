@@ -9,7 +9,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Atlas Red 2"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -27,7 +27,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Atlas Red 3"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -45,7 +45,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Atlas White 1"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -63,7 +63,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Atlas White 2"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -81,7 +81,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Atlas White 3"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -99,7 +99,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-12"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -117,7 +117,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-13"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -135,7 +135,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-21"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -153,7 +153,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-22"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -171,7 +171,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "Aktiv-23"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
-   "FIA" "RHS_US_USMC" "RHS_RF_MSV"
+   "FIA" "RHS_USAF" "RHS_AFRF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -192,7 +192,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_UAZ469_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -213,7 +213,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_UAZ469_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -234,7 +234,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_UAZ469_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -252,7 +252,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_UAZ469_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {
@@ -273,7 +273,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_sDescription "#AR-Vehicle_UAZ469_Name"
   m_bUseWorldScale 1
   m_aVisibleForFactions {
-   "FIA" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "FIA" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bVisibleForEmptyFaction 1
   m_aHideOnGameModeStates {

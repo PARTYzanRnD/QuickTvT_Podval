@@ -57,7 +57,7 @@ SCR_AIGroup RHS_RF_MSV_G_011_4 : "{84B0760E0C747AAC}PrefabLibrary/GroupsRHS_RF/G
  }
  coords 2734.076 77.529 1641.762
  angleY -40.9
- m_faction "RHS_RF_MSV"
+ m_faction "RHS_AFRF"
 }
 Vehicle BTR1 : "{A95573BF4A5C1901}PrefabLibrary/Vehicles/BTR70.et" {
  coords 2732.074 77.627 1646.474

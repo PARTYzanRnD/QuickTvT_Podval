@@ -22,7 +22,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "The tasks of the Armed Forces of the Russian Federation are to capture and hold the store in the city of Beregard, or eliminate all the defenders."\
   "         Intelligence data: The enemy is well entrenched in the city, but we have found their weak points (For more information, see the Legend section)."
   m_aVisibleForFactions {
-   "" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -50,7 +50,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Mission Features: Some entrances to buildings are barricaded, perhaps blows with the butt will help to dismantle the barricades."
   m_aVisibleForFactions {
-   "" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bEmptyFactionVisibility 1
  }

@@ -51,7 +51,7 @@ PolylineShapeEntity {
    m_sTitle "Отряд США уничтожен."
    m_sTextData ""
    m_iScore 100
-   m_sFactionKey "RHS_RF_MSV"
+   m_sFactionKey "RHS_AFRF"
   }
   PS_PolyZoneObjectiveTriggerCapture CaptureTrigger {
    components {
@@ -70,7 +70,7 @@ PolylineShapeEntity {
    m_polyZoneEffect PS_PolyZoneEffectTriggerCapture "{60FD404BA423B7C5}" {
     m_sTriggerName "CaptureTrigger"
    }
-   m_sCurrentFaction "RHS_US_USMC"
+   m_sCurrentFaction "RHS_USAF"
    m_bEasyTake 1
    m_bTimeLoss 1
   }
@@ -148,7 +148,7 @@ PolylineShapeEntity : "{DCA90362FBC25FB4}Prefabs/PolyZone/PolyZone_Presence.et" 
   PS_Objective {
    ID "60E9062D2F15A7F1"
    m_sTitle "США успешно эвакуировались."
-   m_sFactionKey "RHS_US_USMC"
+   m_sFactionKey "RHS_USAF"
    m_bAdvanceWhenTriggered 1
   }
   PS_PolyZoneObjectivePresence {

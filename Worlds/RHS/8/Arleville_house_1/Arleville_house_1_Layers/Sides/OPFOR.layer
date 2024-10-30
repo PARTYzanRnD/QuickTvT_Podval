@@ -11,5 +11,5 @@ SCR_AIGroup RHS_RF_MSV_G_001_4 : "{84B0760E0C747AAC}PrefabLibrary/GroupsRHS_RF/G
  }
  coords 2716.947 77.531 1681.072
  angleY 142.33
- m_faction "RHS_RF_MSV"
+ m_faction "RHS_AFRF"
 }

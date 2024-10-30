@@ -6,7 +6,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Время на миссию: 13 минут."
   m_aVisibleForFactions {
-   "" "FIA" "RHS_RF_MSV"
+   "" "FIA" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -18,7 +18,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "ВСРФ запрещено пересекать зеленый маркер."\
   "Повстанцам запрещено пересекать красный маркер."
   m_aVisibleForFactions {
-   "" "FIA" "RHS_RF_MSV"
+   "" "FIA" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -27,7 +27,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ ВСРФ"
   m_sTextData "Перевезти грузовик через красный маркер."
   m_aVisibleForFactions {
-   "" "" "RHS_RF_MSV"
+   "" "" "RHS_AFRF"
   }
  }
  DESCRIPTION4 {

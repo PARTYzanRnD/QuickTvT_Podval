@@ -7,7 +7,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Время на миссию: 15 минут."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -20,7 +20,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Всем запрещено находится в воде."\
   "РФ запрещено садиться в вертолет."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" "RHS_RF_MSV"
+   "" "RHS_USAF" "RHS_AFRF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -29,7 +29,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ ВСРФ"
   m_sTextData "Уничтожить противника, не дать захватить вертолет, который понадобится нашему командованию."
   m_aVisibleForFactions {
-   "" "" "RHS_RF_MSV"
+   "" "" "RHS_AFRF"
   }
  }
  DESCRIPTION4 {
@@ -37,7 +37,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ США"
   m_sTextData "Покинуть остров на вертолете (как минимум 1 человек) или уничтожить противника."
   m_aVisibleForFactions {
-   "" "RHS_US_USMC" ""
+   "" "RHS_USAF" ""
   }
  }
 }

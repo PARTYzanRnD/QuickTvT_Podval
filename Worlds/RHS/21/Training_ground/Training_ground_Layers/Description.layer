@@ -5,7 +5,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTextData "Синие вне очереди заняли площадку для тренировок, теперь им придеться за нее воевать."\
   "Красные хотят воссстановить справедливость и захватить площадку."
   m_aVisibleForFactions {
-   "" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -16,7 +16,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "Фриз зона красных - Красная зона"\
   "Фриз зона синих - Синяя зона"
   m_aVisibleForFactions {
-   "" "US" "USSR" "RHS_RF_MSV" "RHS_US_USMC"
+   "" "US" "USSR" "RHS_AFRF" "RHS_USAF"
   }
   m_bEmptyFactionVisibility 1
  }

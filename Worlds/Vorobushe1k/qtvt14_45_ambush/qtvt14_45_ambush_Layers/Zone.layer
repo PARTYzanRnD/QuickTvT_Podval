@@ -69,7 +69,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderUVScale 4
     m_fPolygonBorderWidth 4.7
     m_aVisibleForFactions {
-     "RHS_RF_MSV" "FIA" ""
+     "RHS_AFRF" "FIA" ""
     }
    }
   }
@@ -146,7 +146,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderUVScale 0.001
     m_fPolygonBorderWidth 22.5
     m_aVisibleForFactions {
-     "RHS_RF_MSV" "FIA"
+     "RHS_AFRF" "FIA"
     }
    }
   }
@@ -193,7 +193,7 @@ $grp PolylineShapeEntity {
     m_cPolygonBorderColor 1 0 0 1
     m_bLineMode 1
     m_aVisibleForFactions {
-     "" "RHS_RF_MSV" "FIA"
+     "" "RHS_AFRF" "FIA"
     }
    }
   }
@@ -216,7 +216,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderUVScale 0.001
     m_fPolygonBorderWidth 22.5
     m_aVisibleForFactions {
-     "RHS_RF_MSV" "FIA"
+     "RHS_AFRF" "FIA"
     }
    }
   }
@@ -253,7 +253,7 @@ $grp PolylineShapeEntity {
     }
     m_polyZoneEffect PS_PolyZoneEffectRestricted "{610377A804615D18}" {
     }
-    m_sFactionKey "RHS_RF_MSV"
+    m_sFactionKey "RHS_AFRF"
    }
   }
  }
@@ -265,7 +265,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 14.8
     m_bLineMode 1
     m_aVisibleForFactions {
-     "" "RHS_RF_MSV" "FIA"
+     "" "RHS_AFRF" "FIA"
     }
    }
   }

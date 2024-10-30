@@ -6,7 +6,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Время на миссию: 9 минут."
   m_aVisibleForFactions {
-   "" "RHS_RF_MSV" "FIA"
+   "" "RHS_AFRF" "FIA"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -16,7 +16,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTextData "ВСРФ запрещено покидать опорный пункт."\
   "Всем запрещено выходить за красный маркер."
   m_aVisibleForFactions {
-   "" "RHS_RF_MSV" "FIA"
+   "" "RHS_AFRF" "FIA"
   }
   m_bEmptyFactionVisibility 1
  }
@@ -25,7 +25,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sTitle "ЗАДАЧИ ВСРФ"
   m_sTextData "Необходимо удержать сигнальный холм"
   m_aVisibleForFactions {
-   "" "" "RHS_RF_MSV"
+   "" "" "RHS_AFRF"
   }
  }
  DESCRIPTION4 {
