@@ -138,7 +138,7 @@ modded class SCR_AIGroup
 		
 		spawnParams.Transform[3] = pos;
 		
-		IEntity member = GetGame().SpawnEntityPrefab(res, true, world, spawnParams);
+		IEntity member = GetGame().SpawnEntityPrefabEx(res, true, world, spawnParams);
 		if (!member)
 			return true;
 		
